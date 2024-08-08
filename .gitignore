@@ -1,0 +1,4 @@
+venv/
+krpano-1.21.2/
+.env
+__pycache__/
